@@ -1,0 +1,9 @@
+issuesystem\server\process\GetUserByLogin.class
+issuesystem\server\process\AddUserProcess.class
+issuesystem\server\process\GetUserList.class
+issuesystem\server\process\ProcessInterface.class
+issuesystem\server\ServerMain.class
+issuesystem\server\process\DelUserProcess.class
+issuesystem\server\process\ProcessFactory.class
+issuesystem\server\repository\ClientProcess.class
+issuesystem\server\repository\UserRepository.class
